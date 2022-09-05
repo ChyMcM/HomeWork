@@ -1,0 +1,23 @@
+﻿  BitStream.cpp
+  Console.cpp
+  DSA_Main.cpp
+C:\Users\mitsu\Downloads\DSA_Labs (1)\DSA_Labs\DSA_Labs\DSA_Lab4.h(82,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mitsu\Downloads\DSA_Labs (1)\DSA_Labs\DSA_Labs\Huffman.h(169,1): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\mitsu\Downloads\DSA_Labs (1)\DSA_Labs\DSA_Labs\Huffman.h(328,17): warning C4244: '=': conversion from 'short' to 'char', possible loss of data
+  DSA_Memory_Management.cpp
+  DSA_TestSuite_GlobalFunctions.cpp
+  DSA_TestSuite_Lab1.cpp
+  DSA_TestSuite_Lab2.cpp
+  DSA_TestSuite_Lab3.cpp
+  DSA_TestSuite_Lab4.cpp
+C:\Users\mitsu\Downloads\DSA_Labs (1)\DSA_Labs\DSA_Labs\DSA_Lab4.h(82,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  DSA_TestSuite_Lab5.cpp
+  DSA_TestSuite_Lab6.cpp
+  DSA_TestSuite_Lab7.cpp
+  DSA_TestSuite_Lab8.cpp
+C:\Users\mitsu\Downloads\DSA_Labs (1)\DSA_Labs\DSA_Labs\Huffman.h(169,1): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\mitsu\Downloads\DSA_Labs (1)\DSA_Labs\DSA_Labs\Huffman.h(328,17): warning C4244: '=': conversion from 'short' to 'char', possible loss of data
+  Generating Code...
+C:\Users\mitsu\Downloads\DSA_Labs (1)\DSA_Labs\DSA_Labs\Dictionary.h(202): warning C4172: returning address of local variable or temporary: mew
+C:\Users\mitsu\Downloads\DSA_Labs (1)\DSA_Labs\DSA_Labs\Dictionary.h(231): warning C4715: 'Dictionary<float,float>::Remove': not all control paths return a value
+  DSA_Labs.vcxproj -> C:\Users\mitsu\Downloads\DSA_Labs (1)\DSA_Labs\x64\Debug\DSA_Labs.exe
