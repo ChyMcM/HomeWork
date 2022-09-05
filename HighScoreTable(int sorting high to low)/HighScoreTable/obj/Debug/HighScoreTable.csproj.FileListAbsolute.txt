@@ -1,0 +1,14 @@
+C:\Users\marty\Documents\PG1\Working\FSO Version\Practicals\HighScoreTable\HighScoreTable\bin\Debug\HighScoreTable.exe.config
+C:\Users\marty\Documents\PG1\Working\FSO Version\Practicals\HighScoreTable\HighScoreTable\bin\Debug\HighScoreTable.exe
+C:\Users\marty\Documents\PG1\Working\FSO Version\Practicals\HighScoreTable\HighScoreTable\bin\Debug\HighScoreTable.pdb
+C:\Users\marty\Documents\PG1\Working\FSO Version\Practicals\HighScoreTable\HighScoreTable\obj\Debug\HighScoreTable.csprojAssemblyReference.cache
+C:\Users\marty\Documents\PG1\Working\FSO Version\Practicals\HighScoreTable\HighScoreTable\obj\Debug\HighScoreTable.csproj.CoreCompileInputs.cache
+C:\Users\marty\Documents\PG1\Working\FSO Version\Practicals\HighScoreTable\HighScoreTable\obj\Debug\HighScoreTable.exe
+C:\Users\marty\Documents\PG1\Working\FSO Version\Practicals\HighScoreTable\HighScoreTable\obj\Debug\HighScoreTable.pdb
+C:\Users\mitsu\OneDrive\Desktop\Projects VS\HighScoreTable\HighScoreTable\bin\Debug\HighScoreTable.exe.config
+C:\Users\mitsu\OneDrive\Desktop\Projects VS\HighScoreTable\HighScoreTable\bin\Debug\HighScoreTable.exe
+C:\Users\mitsu\OneDrive\Desktop\Projects VS\HighScoreTable\HighScoreTable\bin\Debug\HighScoreTable.pdb
+C:\Users\mitsu\OneDrive\Desktop\Projects VS\HighScoreTable\HighScoreTable\obj\Debug\HighScoreTable.csproj.AssemblyReference.cache
+C:\Users\mitsu\OneDrive\Desktop\Projects VS\HighScoreTable\HighScoreTable\obj\Debug\HighScoreTable.csproj.CoreCompileInputs.cache
+C:\Users\mitsu\OneDrive\Desktop\Projects VS\HighScoreTable\HighScoreTable\obj\Debug\HighScoreTable.exe
+C:\Users\mitsu\OneDrive\Desktop\Projects VS\HighScoreTable\HighScoreTable\obj\Debug\HighScoreTable.pdb

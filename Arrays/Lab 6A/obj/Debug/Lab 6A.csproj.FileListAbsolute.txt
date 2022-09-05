@@ -1,0 +1,13 @@
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 6A\Lab 6A\obj\Debug\Lab 6A.csproj.CoreCompileInputs.cache
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 6A\Lab 6A\bin\Debug\Lab 6A.exe.config
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 6A\Lab 6A\bin\Debug\Lab 6A.exe
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 6A\Lab 6A\bin\Debug\Lab 6A.pdb
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 6A\Lab 6A\obj\Debug\Lab 6A.exe
+C:\Users\marty\Documents\PG1\Working\FSO Version\Lab 6A\Lab 6A\obj\Debug\Lab 6A.pdb
+C:\Users\mitsu\OneDrive\Desktop\Projects VS\Lab 6A\Lab 6A\bin\Debug\Lab 6A.exe.config
+C:\Users\mitsu\OneDrive\Desktop\Projects VS\Lab 6A\Lab 6A\bin\Debug\Lab 6A.exe
+C:\Users\mitsu\OneDrive\Desktop\Projects VS\Lab 6A\Lab 6A\bin\Debug\Lab 6A.pdb
+C:\Users\mitsu\OneDrive\Desktop\Projects VS\Lab 6A\Lab 6A\obj\Debug\Lab 6A.csproj.AssemblyReference.cache
+C:\Users\mitsu\OneDrive\Desktop\Projects VS\Lab 6A\Lab 6A\obj\Debug\Lab 6A.csproj.CoreCompileInputs.cache
+C:\Users\mitsu\OneDrive\Desktop\Projects VS\Lab 6A\Lab 6A\obj\Debug\Lab 6A.exe
+C:\Users\mitsu\OneDrive\Desktop\Projects VS\Lab 6A\Lab 6A\obj\Debug\Lab 6A.pdb
